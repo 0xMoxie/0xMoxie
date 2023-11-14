@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0xMoxie
 - 👀 I’m interested in Web Developement and Software Engineering
-- 🌱 I’m currently learning Front-end Development, Back-end Developement and Web Design
+- 🌱 I’m currently learning Front-end Development, Back-end Developement
 - 💞️ I’m looking to collaborate on Anything really
 - 📫 How to reach me Here on GitHub. :)
 
